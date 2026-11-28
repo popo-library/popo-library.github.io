@@ -489,7 +489,7 @@ pair of small black bat wings attached to both sides of the waist, symmetrical m
 
     profile: [
       { label: "NAME", value: "ラク" },
-      { label: "AGE", value: "20" },
+      { label: "AGE", value: "21" },
       { label: "GENDER", value: "男" },
       { label: "SPECIES", value: "ユキヒョウ" },
     ],
