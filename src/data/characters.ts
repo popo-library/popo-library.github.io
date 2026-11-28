@@ -136,8 +136,8 @@ short slender feline tail, solid jet black tail, smooth short fur on tail,
 
 narrow half-lidded eyes, golden amber eyes, vertical slit pupils, long black whiskers, composed expression,
 
-1.1::gold-rimmed pince-nez glasses, delicate gold glasses chain, asymmetrical gold ear cuffs, black leather gloves::,`,
-    outfitPrompt: `gold tie pin, antique gold pocket watch chain, dark burgundy pocket square,
+1.1::gold-rimmed pince-nez glasses, delicate gold glasses chain, asymmetrical gold ear cuffs::,`,
+    outfitPrompt: `gold tie pin, antique gold pocket watch chain, dark burgundy pocket square, black leather gloves
     
     1.3::classic black three-piece suit, tailored suit jacket, fitted waistcoat, crisp white dress shirt, black necktie::, tailored trousers, polished black oxford shoes,`,
     negativePrompt: ``,
