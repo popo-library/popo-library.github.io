@@ -111,7 +111,7 @@ thick cross-shaped scar on under cheek, thin eyebrows, fine upper eyelashes, no 
   },
 {
     id: "paul",
-    name: "パウル",
+    name: "パウル・フォン・ラーベン",
     image: "/images/characters/paul.webp",
     description: `身長：189cm`,
 
@@ -136,10 +136,10 @@ short slender feline tail, solid jet black tail, smooth short fur on tail,
 
 narrow half-lidded eyes, golden amber eyes, vertical slit pupils, long black whiskers, composed expression,
 
-1.1::gold-rimmed pince-nez glasses, delicate gold glasses chain, asymmetrical gold ear cuffs, black leather gloves::,
-
-gold tie pin, antique gold pocket watch chain, dark burgundy pocket square,`,
-    outfitPrompt: `1.3::classic black three-piece suit, tailored suit jacket, fitted waistcoat, crisp white dress shirt, black necktie::, tailored trousers, polished black oxford shoes,`,
+1.1::gold-rimmed pince-nez glasses, delicate gold glasses chain, asymmetrical gold ear cuffs, black leather gloves::,`,
+    outfitPrompt: `gold tie pin, antique gold pocket watch chain, dark burgundy pocket square,
+    
+    1.3::classic black three-piece suit, tailored suit jacket, fitted waistcoat, crisp white dress shirt, black necktie::, tailored trousers, polished black oxford shoes,`,
     negativePrompt: ``,
 },
 {
